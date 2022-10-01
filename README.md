@@ -42,7 +42,6 @@ Users should be able to:
 
 - Tailwind CSS
 - Flexbox
-- Webpack
 - [React](https://reactjs.org/) - JS library
 
 ### Continued development
