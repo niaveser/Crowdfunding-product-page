@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/crowdfunding-product-page-with-tailwind-css-and-flexbox-ilLgZmaZZW)
+- Live Site URL: [Add live site URL here](https://crowdfunding-product-page-teal.vercel.app)
 
 ## My process
 
